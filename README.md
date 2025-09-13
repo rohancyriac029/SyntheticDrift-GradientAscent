@@ -2,6 +2,8 @@
 
 **PPT Link**:https://app.presentations.ai/view/nfGYt4DOur
 
+**Deployment link for working project**: https://thefrontend-neon.vercel.app/
+
 Transform Walmart's inventory into a dynamic, self-optimizing profit generator using AI-driven autonomous agents for real-time inventory arbitrage across store locations.
 
 ## Features
