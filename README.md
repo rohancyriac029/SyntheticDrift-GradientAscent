@@ -1,5 +1,7 @@
 # Walmart Arbitrage System
 
+**PPT Link**:https://app.presentations.ai/view/nfGYt4DOur
+
 Transform Walmart's inventory into a dynamic, self-optimizing profit generator using AI-driven autonomous agents for real-time inventory arbitrage across store locations.
 
 ## Features
